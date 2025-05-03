@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
+  <channel>
+    <title>Da Sepultura ao Propósito Final</title>
+    <link>https://annegarc.github.io/da-sepultura-ao-proposito/</link>
+    <language>pt-br</language>
+    <copyright>© Julio Leandrini</copyright>
+    <itunes:author>Julio Leandrini</itunes:author>
+    <itunes:subtitle>Quando Ele diz que tem um propósito, Ele realmente tem.</itunes:subtitle>
+    <itunes:summary>Quando Ele diz que tem um propósito, Ele realmente tem. E Deus não medirá esforços para cumprir Seus propósitos em nossas vidas.</itunes:summary>
+    <description>Quando Ele diz que tem um propósito, Ele realmente tem. E Deus não medirá esforços para cumprir Seus propósitos em nossas vidas.</description>
+    <itunes:owner>
+      <itunes:name>Julio Leandrini</itunes:name>
+      <itunes:email>prjulioleandrini@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/capa-da-sepultura-ao-propo-sito/CAPA%20-%20DA%20SEPULTURA%20AO%20PROP%C3%93SITO.png"/>
+    <image>
+      <url>https://archive.org/download/capa-da-sepultura-ao-propo-sito/CAPA%20-%20DA%20SEPULTURA%20AO%20PROP%C3%93SITO.png</url>
+      <title>Da Sepultura ao Propósito Final</title>
+      <link>https://annegarc.github.io/da-sepultura-ao-proposito/</link>
+    </image>
+    <itunes:category text="Religion & Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+
+    <item>
+      <title>Prefácio</title>
+      <description>Prefácio</description>
+      <link>https://archive.org/download/da-sepultura-ao-propo-sito-final/01-Prefácio.mp3</link>
+      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/01-Prefácio.mp3</guid>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/01-Prefácio.mp3" length="265406215" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>Dedicatória</title>
+      <description>Dedicatória</description>
+      <link>https://archive.org/download/da-sepultura-ao-propo-sito-final/02-Dedicatoria.mp3</link>
+      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/02-Dedicatoria.mp3</guid>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/02-Dedicatoria.mp3" length="265406215" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>Introdução</title>
+      <description>Introdução</description>
+      <link>https://archive.org/download/da-sepultura-ao-propo-sito-final/03-Introducao.mp3</link>
+      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/03-Introducao.mp3</guid>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/03-Introducao.mp3" length="265406215" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>Capítulo 1 - O fundo do poço e as orações de uma mãe</title>
+      <description>Capítulo 1 - O fundo do poço e as orações de uma mãe</description>
+      <link>https://archive.org/download/da-sepultura-ao-propo-sito-final/04-Capitulo-1.mp3</link>
+      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/04-Capitulo-1.mp3</guid>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/04-Capitulo-1.mp3" length="265406215" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>Capítulo 2 - O encontro com Deus</title>
+      <description>Capítulo 2 - O encontro com Deus</description>
+      <link>https://archive.org/download/da-sepultura-ao-propo-sito-final/05-Capitulo-2.mp3</link>
+      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/05-Capitulo-2.mp3</guid>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/05-Capitulo-2.mp3" length="265406215" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>Capítulo 3 - Uma nova vida e um novo propósito</title>
+      <description>Capítulo 3 - Uma nova vida e um novo propósito</description>
+      <link>https://archive.org/download/da-sepultura-ao-propo-sito-final/06-Capitulo-3.mp3</link>
+      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/06-Capitulo-3.mp3</guid>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/06-Capitulo-3.mp3" length="265406215" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>Capítulo 4 - O vale da dor</title>
+      <description>Capítulo 4 - O vale da dor</description>
+      <link>https://archive.org/download/da-sepultura-ao-propo-sito-final/07-Capitulo-4.mp3</link>
+      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/07-Capitulo-4.mp3</guid>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/07-Capitulo-4.mp3" length="265406215" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>Capítulo 5 - Uma promessa impossível</title>
+      <description>Capítulo 5 - Uma promessa impossível</description>
+      <link>https://archive.org/download/da-sepultura-ao-propo-sito-final/08-Capitulo-5.mp3</link>
+      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/08-Capitulo-5.mp3</guid>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/08-Capitulo-5.mp3" length="265406215" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>Capítulo 6 - Um reencontro planejado por Deus</title>
+      <description>Capítulo 6 - Um reencontro planejado por Deus</description>
+      <link>https://archive.org/download/da-sepultura-ao-propo-sito-final/09-Capitulo-6.mp3</link>
+      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/09-Capitulo-6.mp3</guid>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/09-Capitulo-6.mp3" length="265406215" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>Capítulo 7 - Um ministério Frutífero</title>
+      <description>Capítulo 7 - Um ministério Frutífero</description>
+      <link>https://archive.org/download/da-sepultura-ao-propo-sito-final/10-Capitulo-7.mp3</link>
+      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/10-Capitulo-7.mp3</guid>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/10-Capitulo-7.mp3" length="265406215" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>Conclusão</title>
+      <description>Conclusão</description>
+      <link>https://archive.org/download/da-sepultura-ao-propo-sito-final/11-Conclusao.mp3</link>
+      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/11-Conclusao.mp3</guid>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/11-Conclusao.mp3" length="265406215" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>Considerações Finais</title>
+      <description>Considerações Finais</description>
+      <link>https://archive.org/download/da-sepultura-ao-propo-sito-final/12-Consideracoes-Finais.mp3</link>
+      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/12-Consideracoes-Finais.mp3</guid>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/12-Consideracoes-Finais.mp3" length="265406215" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+  </channel>
+</rss>

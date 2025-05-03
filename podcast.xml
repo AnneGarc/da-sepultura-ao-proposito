@@ -1,171 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:media="http://search.yahoo.com/mrss/"
-     version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Da sepultura ao propósito</title>
-    <link>https://seu-usuario.github.io/da-sepultura-ao-proposito/</link>
+    <link>https://annegarc.github.io/da-sepultura-ao-proposito/</link>
     <language>pt-br</language>
-    <copyright>© 2025 Julio Leandrini</copyright>
     <itunes:author>Julio Leandrini</itunes:author>
-    <itunes:summary>Quando Ele diz que tem um propósito, Ele realmente tem. E Deus não medirá esforços para cumprir Seus propósitos em nossas vidas.</itunes:summary>
     <description>Quando Ele diz que tem um propósito, Ele realmente tem. E Deus não medirá esforços para cumprir Seus propósitos em nossas vidas.</description>
+    <itunes:image href="https://archive.org/download/capa-da-sepultura-ao-propo-sito/CAPA%20-%20DA%20SEPULTURA%20AO%20PROP%C3%93SITO.png" />
     <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Religion & Spirituality"/>
-    <itunes:image href="https://seu-usuario.github.io/da-sepultura-ao-proposito/capa.png"/>
-    <image>
-      <url>https://seu-usuario.github.io/da-sepultura-ao-proposito/capa.png</url>
-      <title>Da sepultura ao propósito</title>
-      <link>https://seu-usuario.github.io/da-sepultura-ao-proposito/</link>
-    </image>
-    <itunes:owner>
-      <itunes:name>Julio Leandrini</itunes:name>
-      <itunes:email>seu-email@example.com</itunes:email>
-    </itunes:owner>
 
     <item>
-      <title>Prefácio</title>
-      <itunes:episode>1</itunes:episode>
-      <itunes:author>Julio Leandrini</itunes:author>
-      <itunes:subtitle>Prefácio</itunes:subtitle>
-      <itunes:summary>Prefácio do livro "Da sepultura ao propósito".</itunes:summary>
-      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/01%20Pref%C3%A1cio.mp3" type="audio/mpeg" length="12345678"/>
-      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/01%20Pref%C3%A1cio.mp3</guid>
-      <pubDate>Sat, 03 May 2025 08:00:00 GMT</pubDate>
-      <itunes:duration>00:13:24</itunes:duration>
+      <title>1 Prefácio</title>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/01%20Pref%C3%A1cio.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>13:24</itunes:duration>
     </item>
 
     <item>
-      <title>Dedicatória</title>
-      <itunes:episode>2</itunes:episode>
-      <itunes:author>Julio Leandrini</itunes:author>
-      <itunes:subtitle>Dedicatória</itunes:subtitle>
-      <itunes:summary>Dedicatória do livro "Da sepultura ao propósito".</itunes:summary>
-      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/02%20Dedicat%C3%B3ria.mp3" type="audio/mpeg" length="12345678"/>
-      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/02%20Dedicat%C3%B3ria.mp3</guid>
-      <pubDate>Sat, 03 May 2025 08:10:00 GMT</pubDate>
-      <itunes:duration>00:01:50</itunes:duration>
+      <title>2 Dedicatória</title>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/02%20Dedicat%C3%B3ria.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>01:50</itunes:duration>
     </item>
 
     <item>
-      <title>Introdução</title>
-      <itunes:episode>3</itunes:episode>
-      <itunes:author>Julio Leandrini</itunes:author>
-      <itunes:subtitle>Introdução</itunes:subtitle>
-      <itunes:summary>Quando Ele diz que tem um propósito, Ele realmente tem. E Deus não medirá esforços para cumprir Seus propósitos em nossas vidas.</itunes:summary>
-      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/03%20Introdu%C3%A7%C3%A3o.mp3" type="audio/mpeg" length="12345678"/>
-      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/03%20Introdu%C3%A7%C3%A3o.mp3</guid>
-      <pubDate>Sat, 03 May 2025 08:20:00 GMT</pubDate>
-      <itunes:duration>00:06:14</itunes:duration>
-    </item>
-  
-    <item>
-      <title>Capítulo 1 - O fundo do poço e as orações de uma mãe</title>
-      <itunes:episode>4</itunes:episode>
-      <itunes:author>Julio Leandrini</itunes:author>
-      <itunes:subtitle>Capítulo 1 - O fundo do poço e as orações de uma mãe</itunes:subtitle>
-      <itunes:summary>Onde tudo começou.</itunes:summary>
-      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/04%20Cap%C3%ADtulo%201.mp3" type="audio/mpeg" length="12345678"/>
-      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/04%20Cap%C3%ADtulo%201.mp3</guid>
-      <pubDate>Sat, 03 May 2025 08:30:00 GMT</pubDate>
-      <itunes:duration>00:32:13</itunes:duration>
+      <title>3 Introdução</title>
+      <description>Quando Ele diz que tem um propósito, Ele realmente tem. E Deus não medirá esforços para cumprir Seus propósitos em nossas vidas.</description>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/03%20Introdu%C3%A7%C3%A3o.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>06:14</itunes:duration>
     </item>
 
-    <item>
-      <title>Capítulo 2 - O encontro com Deus</title>
-      <itunes:episode>5</itunes:episode>
-      <itunes:author>Julio Leandrini</itunes:author>
-      <itunes:subtitle>Capítulo 2 - O encontro com Deus</itunes:subtitle>
-      <itunes:summary>Existe chance. Existe solução. Deus é poderoso para transformar vidas.</itunes:summary>
-      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/05%20Cap%C3%ADtulo%202.mp3" type="audio/mpeg" length="12345678"/>
-      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/05%20Cap%C3%ADtulo%202.mp3</guid>
-      <pubDate>Sat, 03 May 2025 08:40:00 GMT</pubDate>
-      <itunes:duration>00:20:08</itunes:duration>
-    </item>
-
-    <item>
-      <title>Capítulo 3 - Uma nova vida e um novo propósito</title>
-      <itunes:episode>6</itunes:episode>
-      <itunes:author>Julio Leandrini</itunes:author>
-      <itunes:subtitle>Capítulo 3 - Uma nova vida e um novo propósito</itunes:subtitle>
-      <itunes:summary>Deus é realmente maravilhoso. Como não crer em milagre?</itunes:summary>
-      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/06%20Cap%C3%ADtulo%203.mp3" type="audio/mpeg" length="12345678"/>
-      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/06%20Cap%C3%ADtulo%203.mp3</guid>
-      <pubDate>Sat, 03 May 2025 08:50:00 GMT</pubDate>
-      <itunes:duration>00:19:13</itunes:duration>
-    </item>
-
-    <item>
-      <title>Capítulo 4 - O vale da dor</title>
-      <itunes:episode>7</itunes:episode>
-      <itunes:author>Julio Leandrini</itunes:author>
-      <itunes:subtitle>Capítulo 4 - O vale da dor</itunes:subtitle>
-      <itunes:summary>Capítulo 4 - O vale da dor</itunes:summary>
-      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/07%20Cap%C3%ADtulo%204.mp3" type="audio/mpeg" length="12345678"/>
-      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/07%20Cap%C3%ADtulo%204.mp3</guid>
-      <pubDate>Sat, 03 May 2025 09:00:00 GMT</pubDate>
-      <itunes:duration>00:24:00</itunes:duration>
-    </item>
-
-    <item>
-      <title>Capítulo 5 - Uma promessa impossível</title>
-      <itunes:episode>8</itunes:episode>
-      <itunes:author>Julio Leandrini</itunes:author>
-      <itunes:subtitle>Capítulo 5 - Uma promessa impossível</itunes:subtitle>
-      <itunes:summary>Capítulo 5 - Uma promessa impossível</itunes:summary>
-      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/08%20Cap%C3%ADtulo%205.mp3" type="audio/mpeg" length="12345678"/>
-      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/08%20Cap%C3%ADtulo%205.mp3</guid>
-      <pubDate>Sat, 03 May 2025 09:10:00 GMT</pubDate>
-      <itunes:duration>00:10:37</itunes:duration>
-    </item>
-
-    <item>
-      <title>Capítulo 6 - Um reencontro planejado por Deus</title>
-      <itunes:episode>9</itunes:episode>
-      <itunes:author>Julio Leandrini</itunes:author>
-      <itunes:subtitle>Capítulo 6 - Um reencontro planejado por Deus</itunes:subtitle>
-      <itunes:summary>Capítulo 6 - Um reencontro planejado por Deus</itunes:summary>
-      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/09%20Cap%C3%ADtulo%206.mp3" type="audio/mpeg" length="12345678"/>
-      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/09%20Cap%C3%ADtulo%206.mp3</guid>
-      <pubDate>Sat, 03 May 2025 09:20:00 GMT</pubDate>
-      <itunes:duration>00:09:59</itunes:duration>
-    </item>
-
-    <item>
-      <title>Capítulo 7 - Um ministério Frutífero</title>
-      <itunes:episode>10</itunes:episode>
-      <itunes:author>Julio Leandrini</itunes:author>
-      <itunes:subtitle>Capítulo 7 - Um ministério Frutífero</itunes:subtitle>
-      <itunes:summary>Capítulo 7 - Um ministério Frutífero</itunes:summary>
-      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/10%20Cap%C3%ADtulo%207.mp3" type="audio/mpeg" length="12345678"/>
-      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/10%20Cap%C3%ADtulo%207.mp3</guid>
-      <pubDate>Sat, 03 May 2025 09:30:00 GMT</pubDate>
-      <itunes:duration>00:10:25</itunes:duration>
-    </item>
-
-    <item>
-      <title>Conclusão</title>
-      <itunes:episode>11</itunes:episode>
-      <itunes:author>Julio Leandrini</itunes:author>
-      <itunes:subtitle>Conclusão</itunes:subtitle>
-      <itunes:summary>Conclusão</itunes:summary>
-      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/11%20Conclus%C3%A3o.mp3" type="audio/mpeg" length="12345678"/>
-      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/11%20Conclus%C3%A3o.mp3</guid>
-      <pubDate>Sat, 03 May 2025 09:40:00 GMT</pubDate>
-      <itunes:duration>00:04:09</itunes:duration>
-    </item>
-
-    <item>
-      <title>Considerações Finais</title>
-      <itunes:episode>12</itunes:episode>
-      <itunes:author>Julio Leandrini</itunes:author>
-      <itunes:subtitle>Considerações Finais</itunes:subtitle>
-      <itunes:summary>Considerações finais</itunes:summary>
-      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/12%20Considera%C3%A7%C3%B5es%20Finais.mp3" type="audio/mpeg" length="12345678"/>
-      <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/12%20Considera%C3%A7%C3%B5es%20Finais.mp3</guid>
-      <pubDate>Sat, 03 May 2025 09:50:00 GMT</pubDate>
-      <itunes:duration>00:00:58</itunes:duration>
-    </item>
-
+    <!-- Você pode adicionar os outros episódios seguindo o mesmo modelo -->
   </channel>
 </rss>

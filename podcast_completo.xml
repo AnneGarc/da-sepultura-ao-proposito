@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Da Sepultura ao Propósito</title>
+    <link>https://annegarc.github.io/da-sepultura-ao-proposito/</link>
+    <language>pt-BR</language>
+    <itunes:author>Julio Leandrini</itunes:author>
+    <itunes:owner>
+      <itunes:name>Julio Leandrini</itunes:name>
+      <itunes:email>contato@example.com</itunes:email>
+    </itunes:owner>
+    <description>Quando Ele diz que tem um propósito, Ele realmente tem. E Deus não medirá esforços para cumprir Seus propósitos em nossas vidas.</description>
+    <itunes:image href="https://archive.org/download/capa-da-sepultura-ao-propo-sito/CAPA%20-%20DA%20SEPULTURA%20AO%20PROP%C3%93SITO.png" />
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Sat, 03 May 2025 09:00:00 -0300</pubDate>
+
+    <item>
+      <title>Prefácio</title>
+      <description>Prefácio do livro em formato de áudio.</description>
+      <pubDate>Sat, 03 May 2025 09:00:00 -0300</pubDate>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/01%20Pref%C3%A1cio.mp3" length="804000" type="audio/mpeg"/>
+      <itunes:duration>13:24</itunes:duration>
+      <guid>prefacio</guid>
+    </item>
+    <item>
+      <title>Dedicatória</title>
+      <description>Áudio da dedicatória.</description>
+      <pubDate>Sat, 03 May 2025 09:01:00 -0300</pubDate>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/02%20Dedicat%C3%B3ria.mp3" length="110000" type="audio/mpeg"/>
+      <itunes:duration>1:50</itunes:duration>
+      <guid>dedicatoria</guid>
+    </item>
+    <item>
+      <title>Introdução</title>
+      <description>Quando Ele diz que tem um propósito, Ele realmente tem. E Deus não medirá esforços para cumprir Seus propósitos em nossas vidas.</description>
+      <pubDate>Sat, 03 May 2025 09:02:00 -0300</pubDate>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/03%20Introdu%C3%A7%C3%A3o.mp3" length="370000" type="audio/mpeg"/>
+      <itunes:duration>6:14</itunes:duration>
+      <guid>introducao</guid>
+    </item>
+    <item>
+      <title>Capítulo 1 - O fundo do poço e as orações de uma mãe</title>
+      <description>Onde tudo começou.</description>
+      <pubDate>Sat, 03 May 2025 09:03:00 -0300</pubDate>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/04%20Cap%C3%ADtulo%201.mp3" length="1933000" type="audio/mpeg"/>
+      <itunes:duration>32:13</itunes:duration>
+      <guid>capitulo1</guid>
+    </item>
+    <item>
+      <title>Capítulo 2 - O encontro com Deus</title>
+      <description>Existe chance. Existe solução. Deus é poderoso para transformar vidas.</description>
+      <pubDate>Sat, 03 May 2025 09:04:00 -0300</pubDate>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/05%20Cap%C3%ADtulo%202.mp3" length="1208000" type="audio/mpeg"/>
+      <itunes:duration>20:08</itunes:duration>
+      <guid>capitulo2</guid>
+    </item>
+    <item>
+      <title>Capítulo 3 - Uma nova vida e um novo propósito</title>
+      <description>Deus é realmente maravilhoso. Como não crer em milagre?</description>
+      <pubDate>Sat, 03 May 2025 09:05:00 -0300</pubDate>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/06%20Cap%C3%ADtulo%203.mp3" length="1153000" type="audio/mpeg"/>
+      <itunes:duration>19:13</itunes:duration>
+      <guid>capitulo3</guid>
+    </item>
+    <item>
+      <title>Capítulo 4 - O vale da dor</title>
+      <description></description>
+      <pubDate>Sat, 03 May 2025 09:06:00 -0300</pubDate>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/07%20Cap%C3%ADtulo%204.mp3" length="1440000" type="audio/mpeg"/>
+      <itunes:duration>24:00</itunes:duration>
+      <guid>capitulo4</guid>
+    </item>
+    <item>
+      <title>Capítulo 5 - Uma promessa impossível</title>
+      <description></description>
+      <pubDate>Sat, 03 May 2025 09:07:00 -0300</pubDate>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/08%20Cap%C3%ADtulo%205.mp3" length="637000" type="audio/mpeg"/>
+      <itunes:duration>10:37</itunes:duration>
+      <guid>capitulo5</guid>
+    </item>
+    <item>
+      <title>Capítulo 6 - Um reencontro planejado por Deus</title>
+      <description></description>
+      <pubDate>Sat, 03 May 2025 09:08:00 -0300</pubDate>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/09%20Cap%C3%ADtulo%206.mp3" length="599000" type="audio/mpeg"/>
+      <itunes:duration>9:59</itunes:duration>
+      <guid>capitulo6</guid>
+    </item>
+    <item>
+      <title>Capítulo 7 - Um ministério Frutífero</title>
+      <description></description>
+      <pubDate>Sat, 03 May 2025 09:09:00 -0300</pubDate>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/10%20Cap%C3%ADtulo%207.mp3" length="625000" type="audio/mpeg"/>
+      <itunes:duration>10:25</itunes:duration>
+      <guid>capitulo7</guid>
+    </item>
+    <item>
+      <title>Conclusão</title>
+      <description></description>
+      <pubDate>Sat, 03 May 2025 09:10:00 -0300</pubDate>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/11%20Conclus%C3%A3o.mp3" length="249000" type="audio/mpeg"/>
+      <itunes:duration>4:09</itunes:duration>
+      <guid>conclusao</guid>
+    </item>
+    <item>
+      <title>Considerações Finais</title>
+      <description></description>
+      <pubDate>Sat, 03 May 2025 09:11:00 -0300</pubDate>
+      <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/12%20Considera%C3%A7%C3%B5es%20Finais.mp3" length="58000" type="audio/mpeg"/>
+      <itunes:duration>0:58</itunes:duration>
+      <guid>finais</guid>
+    </item>
+
+  </channel>
+</rss>

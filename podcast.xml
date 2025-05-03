@@ -13,7 +13,9 @@
     </itunes:owner>
     <description>Quando Ele diz que tem um propósito, Ele realmente tem. E Deus não medirá esforços para cumprir Seus propósitos em nossas vidas.</description>
     <itunes:image href="https://archive.org/download/capa-da-sepultura-ao-propo-sito/CAPA%20-%20DA%20SEPULTURA%20AO%20PROP%C3%93SITO.png" />
-    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:category text=""Religion &amp; Spirituality"/>
+         <itunes:category text="Religion"/>
+         </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Sat, 03 May 2025 09:00:00 -0300</pubDate>
 

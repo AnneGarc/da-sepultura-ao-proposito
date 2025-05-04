@@ -23,10 +23,11 @@
       <title>Da Sepultura ao Propósito Final</title>
       <link>https://annegarc.github.io/da-sepultura-ao-proposito/</link>
     </image>
-    <itunes:category text="Religion &amp Spirituality">
+    <itunes:category text="Religion and Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
 
+    <!-- Episódios -->
     <item>
       <title>Prefácio</title>
       <description>Prefácio</description>
@@ -109,8 +110,8 @@
       <itunes:duration>00:10:00</itunes:duration>
     </item>
     <item>
-      <title>Capítulo 7 - Um ministério Frutífero</title>
-      <description>Capítulo 7 - Um ministério Frutífero</description>
+      <title>Capítulo 7 - O propósito cumprido</title>
+      <description>Capítulo 7 - O propósito cumprido</description>
       <link>https://archive.org/download/da-sepultura-ao-propo-sito-final/10-Capitulo-7.mp3</link>
       <guid>https://archive.org/download/da-sepultura-ao-propo-sito-final/10-Capitulo-7.mp3</guid>
       <enclosure url="https://archive.org/download/da-sepultura-ao-propo-sito-final/10-Capitulo-7.mp3" length="265406215" type="audio/mpeg"/>
